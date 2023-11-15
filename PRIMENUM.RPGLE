@@ -6,7 +6,7 @@
 //
 // When run from the terminal, this program takes
 // an integer as input and then outputs whether
-// that number has certain properties
+// that number is a prime number
 //
 // - - - - - - - - - - - - - - - - - - - -
 
